@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Serg0123
+- 👋 Hi, I’m Serg
 - 👀 I’m interested in snowboading and diving
 - 🌱 I’m currently learning python and php
 - 💞️ I’m looking to collaborate on ...
